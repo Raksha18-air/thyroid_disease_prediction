@@ -152,7 +152,7 @@ Thyroid-Disease-Detection-ML-Project/
 
 # Installation:-
 1. Clone the Repository:
-   git clone https://github.com/ImAni07/Thyroid-Disease-Detection-ML-Project.git
+   git clone https://github.com/Raksha18-air/Thyroid-Disease-Detection-ML-Project.git
    cd Thyroid-Disease-Detection-ML-Project
 2. Create and Activate a Virtual Environment:
    python -m venv venv
@@ -175,12 +175,12 @@ Thyroid-Disease-Detection-ML-Project/
 5. Logging: Tracks application usage and errors.
 
 # Project Documentation:-
-1. High Level Document: <https://github.com/ImAni07/Thyroid-Disease-Detection-ML-Project/blob/main/Project_Documentation/HLD.pdf>
-2. Low Level Document: <https://github.com/ImAni07/Thyroid-Disease-Detection-ML-Project/blob/main/Project_Documentation/LLD.pdf>
-3. Architecture Document: <https://github.com/ImAni07/Thyroid-Disease-Detection-ML-Project/blob/main/Project_Documentation/Architecture_Document.pdf>
-4. Wireframe Document: <https://github.com/ImAni07/Thyroid-Disease-Detection-ML-Project/blob/main/Project_Documentation/Wireframe_Document.pdf>
-5. Detailed Project Report: <https://github.com/ImAni07/Thyroid-Disease-Detection-ML-Project/blob/main/Project_Documentation/Detailed_Project_Report.pdf>
-6. Project Demo Video: <https://github.com/ImAni07/Thyroid-Disease-Detection-ML-Project/blob/main/Project_Documentation/Project_Demo_Video.mp4>
+1. High Level Document: <https://github.com/Raksha18-air/Thyroid_disease_prediction/blob/main/Project_Documentation/HLD.pdf>
+2. Low Level Document: <https://github.com/Raksha18-air/Thyroid_disease_prediction/blob/main/Project_Documentation/LLD.pdf>
+3. Architecture Document: <https://github.com/Raksha18-air/Thyroid_disease_prediction/blob/main/Project_Documentation/Architecture_Document.pdf>
+4. Wireframe Document: <https://github.com/Raksha18-air/Thyroid_disease_prediction/blob/main/Project_Documentation/Wireframe_Document.pdf>
+5. Detailed Project Report: <https://github.com/Raksha18-air/Thyroid_disease_prediction/blob/main/Project_Documentation/Detailed_Project_Report.pdf>
+6. Project Demo Video: <https://github.com/Raksha18-air/Thyroid_disease_prediction/blob/main/Project_Documentation/Project_Demo_Video.mp4>
 
 # Conclusion:-
 1. Overview of Achievements:- The Thyroid Disease Detection project effectively utilized machine learning techniques to enhance the prediction and early diagnosis of thyroid disorders. By integrating data cleaning, feature engineering, and advanced classification algorithms, the project achieved a robust system capable of accurately assessing the risk of thyroid diseases such as hypothyroidism and hyperthyroidism.
@@ -196,5 +196,5 @@ PW Skills (https://pwskills.com/) for providing the project base through the Dec
 UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/102/thyroid+disease) for providing the dataset used in this project.
 
 # Author:-
-Anirban Majumder
-Profile: <https://www.linkedin.com/in/anirban-majumder-49344a288/>
+Raksha Ray
+Profile: <https://www.linkedin.com/in/raksha-ray-1055271a9/>
